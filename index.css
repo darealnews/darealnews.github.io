@@ -1,4 +1,5 @@
-  body {
+/* public domain */
+body {
   background-color: black;
   color: lime;
   font-family: "Courier New";
@@ -10,8 +11,13 @@
    font-family: "Courier New";
 }
 li {
-  color: lime; 
+  color: yellow;
+  text-decoration: none;
 }
 hr {
   color: lime; 
+}
+pre {
+  color: yellow;
+  font-style: italic;
 }
